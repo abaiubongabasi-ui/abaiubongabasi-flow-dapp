@@ -1,0 +1,43 @@
+node_modules
+.env
+coverage
+coverage.json
+typechain
+typechain-types
+
+# Hardhat files
+cache
+artifacts
+
+# Deployment files (keep deployment info but not private keys)
+# deployments/
+# Note: You may want to commit deployment files for reference
+# but ensure .env is never committed
+
+# Frontend
+/dist
+node_modules
+
+# IDE
+.vscode
+.idea
+
+# OS
+.DS_Store
+
+# tanstack
+.tanstack
+
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env.local
+
+# TypeScript
+tsconfig.tsbuildinfo
+*.tsbuildinfo
+
+vite.config.js
+
+.kiro

@@ -1,0 +1,31 @@
+{
+  "short_name": "Flow NFT",
+  "name": "Flow NFT dApp - Mint, Trade & Collect",
+  "description": "Mint unique digital assets, launch collections, and trade on the marketplace with built-in royalties on Flow EVM",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "orientation": "portrait-primary",
+  "categories": ["finance", "utilities"],
+  "scope": "/"
+}

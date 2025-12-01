@@ -1,0 +1,13 @@
+{
+  "network": "flow-testnet",
+  "chainId": 545,
+  "deployer": "0xc8390374aA5a3B1E964bD07d475Cf94A8e76C68f",
+  "timestamp": "2025-11-21T15:53:51.588Z",
+  "contracts": {
+    "nft": "0xf9dd746e39e1758d8eDcCE7af0553222EC36684D",
+    "collectionFactory": "0x1d29C71120732FCA675dA4E6Fb1e93fb53B49a07",
+    "collectionImplementation": "0xd8e350E8acc9efe8FB6Ad511496372BB06d098aa",
+    "marketplace": "0xA3d6DB068C4C5eE5119fa774E696082d855FE2D2"
+  },
+  "blockNumber": 80255417
+}
